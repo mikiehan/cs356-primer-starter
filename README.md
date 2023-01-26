@@ -89,4 +89,3 @@ submitting.
 
 Code that does not compile is graded harshly; if you want partial credits,
 *make sure your file compiles!*
-# cs356-primer-starter
